@@ -1,0 +1,54 @@
+.card-payment .header {
+  width: 100%;
+  height: 250px;
+}
+.card-payment .header .logo {
+  width: 33.33%;
+  display: inline-block;
+  float: left;
+  height: 100%;
+}
+.card-payment .header .logo img {
+  width: 100%;
+  height: 100%;
+}
+.card-payment .header .title {
+  width: 33.33%;
+  display: inline-block;
+  float: left;
+  height: 100%;
+}
+.card-payment .header .title * {
+  margin: 0;
+  height: 100%;
+}
+.card-payment .header .information {
+  width: 33.33%;
+  display: inline-block;
+  float: left;
+  height: 100%;
+}
+.card-payment .header .information * {
+  margin: 0;
+}
+.card-payment .recibo-de-movimiento {
+  width: 200px;
+  border: 1px solid BLACK;
+}
+.card-payment .recibo-de-movimiento .head-title {
+  width: 100%;
+  background-color: #0bca0b;
+}
+.card-payment .recibo-de-movimiento .head-title * {
+  margin: 0;
+  padding: 4px 0px;
+}
+.card-payment .recibo-de-movimiento .no-movimiento {
+  width: 100%;
+  text-align: center;
+  color: RED;
+  padding: 4px 0px;
+}
+.card-payment .recibo-de-movimiento .no-movimiento * {
+  margin: 0;
+}
